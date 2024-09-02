@@ -1,4 +1,4 @@
-# Modelo para ser desenvolvido pelos alunos na estrutruta de seus repositórios
+# Modelo para ser desenvolvido pelos alunos na estrututa de seus repositórios
 
 # Repositório de Projetos e Exercícios da Disciplina
 
