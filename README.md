@@ -1,3 +1,5 @@
+# Modelo para ser desenvolvido pelos alunos na estrutruta de seus repositórios
+
 # Repositório de Projetos e Exercícios da Disciplina
 
 Este repositório contém uma coleção de projetos e exercícios desenvolvidos durante a disciplina. Cada diretório abaixo corresponde a um exercício realizado em sala de aula, em casa, ou ao projeto final da disciplina.
