@@ -4,7 +4,7 @@ O programa **Blink** é um dos exemplos mais básicos e tradicionais para quem e
 
 ## Circuito a ser montado
 
-![circuito ](https://www.arduino.cc/en/pub/skins/arduinoWide/img/logo.png)
+![circuito ](https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Sala_1/Circuito_pisca.jpg)
 
 
 ## Objetivo
