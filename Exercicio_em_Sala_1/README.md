@@ -6,7 +6,7 @@ O programa **Blink** é um dos exemplos mais básicos e tradicionais para quem e
 
 <img src="https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Sala_1/Circuito_pisca.jpg" alt="Circuito" width="50%">
 
-<img src="https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Sala_1/Fog_pisca.jpg" alt="Circuito" width="50%">
+<img src="https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Sala_1/Fig_pisca.jpg" alt="Circuito" width="50%">
 
 
 
