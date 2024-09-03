@@ -1,6 +1,11 @@
 ## Descrição
 
-O programa **Blink** é um dos exemplos mais básicos e tradicionais para quem está começando a trabalhar com microcontroladores, como o Arduino. Ele faz com que um LED pisque (ou "blinke") repetidamente, ligando e desligando em intervalos regulares. Este exemplo é útil para testar se o ambiente de desenvolvimento e o hardware estão funcionando corretamente.
+O programa **Blink** é um dos exemplos mais básicos e tradicionais para quem está começando a trabalhar com microcontroladores, como o Arduino. Ele faz com que um LED pisque (ou "blink") repetidamente, ligando e desligando em intervalos regulares. Este exemplo é útil para testar se o ambiente de desenvolvimento e o hardware estão funcionando corretamente.
+
+## Circuito a ser montado
+
+![circuito ](https://www.arduino.cc/en/pub/skins/arduinoWide/img/logo.png)
+
 
 ## Objetivo
 
