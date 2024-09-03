@@ -20,8 +20,7 @@ Além disso, é possível inverter o circuito, utilizando um resistor pull-down 
 - **Fios de conexão** (jumpers)
 - **Protoboard**
 
-## Diagramna de Montagem
-
+## Diagrama de Montagem
 
 <img src="https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Casa_1/Figura.jpeg" alt="Circuito" width="50%">
 
