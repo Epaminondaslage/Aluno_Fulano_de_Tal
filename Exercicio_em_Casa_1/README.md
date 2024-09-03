@@ -23,7 +23,7 @@ Além disso, é possível inverter o circuito, utilizando um resistor pull-down 
 ## Diagramna de Montagem
 
 
-<img src="https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Sala_1/Circuito_pisca.jpg" alt="Circuito" width="50%">
+<img src="https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Casa_1/Figura.jpeg" alt="Circuito" width="50%">
 
 ## Montagem do Circuito
 
